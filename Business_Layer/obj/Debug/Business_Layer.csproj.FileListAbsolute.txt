@@ -1,0 +1,6 @@
+C:\Users\aliom\source\repos\Business_Layer\bin\Debug\Business_Layer.dll
+C:\Users\aliom\source\repos\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\aliom\source\repos\Business_Layer\obj\Debug\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\aliom\source\repos\Business_Layer\obj\Debug\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\aliom\source\repos\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\aliom\source\repos\Business_Layer\obj\Debug\Business_Layer.pdb
